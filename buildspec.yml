@@ -5,5 +5,5 @@ phases:
     commands:
     - echo "Nothing to do yet"
   artifacts:
-  files:
+    files:
     - '**/*'
